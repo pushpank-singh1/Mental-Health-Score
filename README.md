@@ -1,6 +1,6 @@
 # 🧠 Student Wellness Predictor
 
-> An AI-powered web application that predicts a student's **mental health score from 0–10** based on lifestyle, academic, digital habits, and perceived stress.
+**An AI-powered web application that predicts a student's **mental health score from 0–10** based on lifestyle, academic, digital habits, and perceived stress.**
 
 ---
 
